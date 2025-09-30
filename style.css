@@ -1,6 +1,6 @@
 body {
     display: grid;
-     grid-template-columns: repeat(auto-fit, minmax(min(25%, 350px), 1fr));
+     grid-template-columns: repeat(auto-fit, minmax(min(25vw, 350px), 1fr));
      width: 100%;
     margin:0; 
     justify-content: center;
@@ -32,12 +32,13 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transition: transform 0.8s ease;
+    background: none;
 }
 
 .flip-card-front,
 .flip-card-back {
     
-    border-radius: 20px;
+    border-radius: min(5vw, 15px);
   position: absolute;
   inset: 0; /* same location & size */
   backface-visibility: hidden; /* hide the "back" when turned */
@@ -48,7 +49,6 @@ body {
 }
 
 
-
 .flip-card-front {
     cursor: pointer;
     background-image: url("card.png");
@@ -57,7 +57,6 @@ body {
 
 .flip-card-back {
   transform: rotateY(180deg);
-  font-size: 2vw;
-  padding: 0px 10px;
+  font-size: min(2vw, 20px);
 }
 

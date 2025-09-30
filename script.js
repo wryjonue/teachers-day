@@ -1,6 +1,3 @@
-
-
-
 async function init() {
     for (let i of messages) {
         await sleep(200);
@@ -46,7 +43,7 @@ ps. lagay na po kayo maid cos sa amazon wishlist nyo, ako na bibili 🤭
 
 `“Hello po sir roberts, kahit po madami po kayong pinapacode, may natututunan nmn po aku , happy teacher’s day and also nya nya nyah!”
 
--Julianna (Mayor)
+-Mayor
 `,
 
 `Sana po mabatak ng madaming activities ang grade po namin happy teacher's day po and thank you po 🥰 nakaka inspire gumawa ng sariling web at app
@@ -71,13 +68,61 @@ ps. lagay na po kayo maid cos sa amazon wishlist nyo, ako na bibili 🤭
 
 -Aliyah`,
 
-
 `happy teacher's day, sana mabuhay ka po ng matagal!
 
--dattebayo`
+-dattebayo`,
+
+`
+Happy Teacher's Day Sir Irish  Thank you for teaching and inspiring us.
+
+-Aeron
+`,
+
+`Happy teachers day sir Robert Naway maging mabait po kayo na guro sa aming lahat arigato amen
+
+-Nico`,
+
+`Thank you po, Sir Robert! Kahit minsan sumasakit na utak ko sa lessons, worth it kasi ang dami kong natututunan. You make learning feel like a challenge sa ML hirap pero panalo sa dulo!!
+
+-youli `,
+
+`Happy Teacher's Day, Sir Robert !
+
+{\\_/}
+( ^-^)
+(>💐
+
+- ghail`,
+
+`.-.. --- -. --. / .-.. .. ...- . / ... .. .-. / .-. --- -... . .-. - -.-.-- -.-.-- -.-.-- -.-.-- -.-.-- / -. . -.- --- / -. . -.- --- / -. -.-- .- -.-.-- -.-.-- -.-.-- -.-.-- -.-.--
+
+-Achi`,
+
+`//Happy teacher day po ser irish !
+
+public class Main {
+	public static void main(String[] args) {
+		
+	}
+}
+
+- derick`,
 
 
+`import java. util. Scanner; 
 
+Ayy.,,,..mali :{}
 
+Hi, Sir Robert!
+
+Thank you so much for your endless patience in teaching us programming. Even though the subject can be really challenging, you’ve always been there to guide us with dedication and understanding. 
+
+Happy Teacher’s Day po! 
+
+—vnuei`,
+
+`Happy teachers month po sir, thank you po.
+
+—ken`
 
 ]
