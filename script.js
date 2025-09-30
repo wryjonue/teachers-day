@@ -17,8 +17,6 @@ async function init() {
     }
 }
 
-let hue = Math.floor(Math.random() * 361);
-
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -123,6 +121,26 @@ Happy Teacher’s Day po!
 
 `Happy teachers month po sir, thank you po.
 
-—ken`
+—ken`,
+
+`hello po sir robert!! halos maiyak na po ako sa sub na ito pero i'm glad na kayo po yung nagtuturo kasi na eenjoy po namin way of teaching niyo hehe. Kahit mahirap mga worksheets, I can say na marami po kaming natutunan sainyo. Thank you po sir!!
+
+-margago`,
+
+`
+Hi po sir! Happy Teacher's Month po! wala po ako maisip pero thank youuu po for teaching us kahit wala na akong tulog sa subj nyo hehe love lots!
+
+—syd`,
+
+`labyou ser
+
+-j`,
+
+`︵‿︵‿୨♡୧‿︵‿︵
+ 
+˚₊· ͟͟͞͞➳❥HAPPY TEACHERS DAY SIR⋆. 𐙚˚࿔ ROBERT 𝜗𝜚˚⋆◛⑅·˚ ༘ ♡
+•┈••✦  ✦••┈•
+
+From:♡*ೃ˚ :ZYRELL:;✎ (❁ᴗ͈ˬᴗ͈) ༉‧ ♡*.✧`
 
 ]

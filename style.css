@@ -1,10 +1,14 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
 body {
     display: grid;
-     grid-template-columns: repeat(auto-fit, minmax(min(25vw, 350px), 1fr));
-     width: 100%;
-    margin:0; 
+     grid-template-columns: repeat(auto-fit, minmax(min(24vw, 350px), 1fr));
+    margin:2px; 
     justify-content: center;
-    gap: 1px;
+    column-gap: 2px;
+    row-gap: 2px;
+    line-height: 0;
 }
 .flip-container {
     aspect-ratio: 3 / 4;
