@@ -57,7 +57,7 @@ body {
 
 .flip-card-back {
   transform: rotateY(180deg);
-  font-size: 20px;
+  font-size: 2vw;
   padding: 0px 10px;
 }
 
