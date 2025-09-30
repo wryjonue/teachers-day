@@ -1,9 +1,7 @@
-*, *::before, *::after {
-    box-sizing: border-box;
-}
+
 body {
     display: grid;
-     grid-template-columns: repeat(auto-fit, minmax(min(24vw, 350px), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(24vw, 350px), 1fr));
     margin:2px; 
     justify-content: center;
     column-gap: 2px;
